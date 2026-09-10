@@ -1,0 +1,6 @@
+{
+  "name": "HOPE Network",
+  "description": "HOPE Network — Mine HOPE. Build Community. Create Impact. Full-featured idle-mining ecosystem with real server-side ledger, tokenomics, humanitarian fund, and isolated admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
